@@ -1,0 +1,49 @@
+
+#para1{
+    color: red;
+    background-color: yellow;
+
+}
+#para2{
+    color: white;
+    background-color: black;
+}
+#para3{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+.style1{
+    color: black;
+    background-color: white;
+}
+.style2{
+  color: red; 
+  list-style: none;
+  padding: 0%;
+  border: 2mm;
+  border-color: black;
+  margin: 0%;
+}
+.style3{
+    background-color: yellow;  
+    margin: 1% 10% 1% 0%;
+    border: black;
+    border-width: 1%;
+    padding: 2%;
+    width: 50%;
+    border-color: black;
+    border-style: solid;
+    border-radius: 10%;
+    background-image: url(https://cdn4.iconfinder.com/data/icons/cc_mono_icon_set/blacks/48x48/star_fav.png);
+    background-position: 90%;
+    background-repeat: no-repeat;
+
+}    
+:hover{
+    background-color: white;
+    transform: translate(12px);
+    opacity: 0.5;
+    cursor: pointer;
+
+}
